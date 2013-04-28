@@ -1,0 +1,4 @@
+BrightChop
+==========
+
+Rsbot Chopping Script
